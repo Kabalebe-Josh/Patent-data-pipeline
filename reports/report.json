@@ -1,0 +1,129 @@
+{
+  "total_patents": 5000,
+  "top_inventors": [
+    {
+      "name": "Sven Sato",
+      "patents": 18
+    },
+    {
+      "name": "Omar Nakamura",
+      "patents": 17
+    },
+    {
+      "name": "Priya Mueller",
+      "patents": 17
+    },
+    {
+      "name": "Diego Brown",
+      "patents": 15
+    },
+    {
+      "name": "Ravi Wang",
+      "patents": 15
+    },
+    {
+      "name": "Anna Lopez",
+      "patents": 14
+    },
+    {
+      "name": "Fatima Cohen",
+      "patents": 14
+    },
+    {
+      "name": "Fatima Okafor",
+      "patents": 14
+    },
+    {
+      "name": "Hannah Smith",
+      "patents": 14
+    },
+    {
+      "name": "Hiroshi Khan",
+      "patents": 14
+    }
+  ],
+  "top_companies": [
+    {
+      "name": "Zephyr Holdings",
+      "patents": 28
+    },
+    {
+      "name": "Axiom Industries",
+      "patents": 24
+    },
+    {
+      "name": "Apex Technologies",
+      "patents": 23
+    },
+    {
+      "name": "Forge Logistics",
+      "patents": 23
+    },
+    {
+      "name": "Glacier Networks",
+      "patents": 23
+    },
+    {
+      "name": "Meridian Aerospace",
+      "patents": 23
+    },
+    {
+      "name": "Quantum Ltd",
+      "patents": 23
+    },
+    {
+      "name": "Tesla Bioscience",
+      "patents": 23
+    },
+    {
+      "name": "Axiom Aerospace",
+      "patents": 22
+    },
+    {
+      "name": "Crescent Semiconductors",
+      "patents": 22
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "US",
+      "share": 0.2911
+    },
+    {
+      "country": "CN",
+      "share": 0.1854
+    },
+    {
+      "country": "JP",
+      "share": 0.1329
+    },
+    {
+      "country": "KR",
+      "share": 0.0983
+    },
+    {
+      "country": "DE",
+      "share": 0.07
+    },
+    {
+      "country": "GB",
+      "share": 0.0597
+    },
+    {
+      "country": "FR",
+      "share": 0.0561
+    },
+    {
+      "country": "CA",
+      "share": 0.0397
+    },
+    {
+      "country": "IN",
+      "share": 0.0366
+    },
+    {
+      "country": "CH",
+      "share": 0.0301
+    }
+  ]
+}

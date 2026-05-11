@@ -1,0 +1,19 @@
+# Raw downloaded files (large, regenerable)
+data/raw/
+
+# SQLite database (regenerable)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
